@@ -7,7 +7,7 @@ _Coding Bootcamp Graduate from [Epicodus](https://www.epicodus.com/)_
 ![GitHub Followers Badge](https://img.shields.io/github/followers/ayohana?color=pink&logo=github&style=flat-square)
 ![LinkedIn Badge: ayohana](https://img.shields.io/badge/-ayohana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayohana/)
 
-### <img src="https://media.giphy.com/media/dwGHpzsExl6SDfd5sG/giphy.gif" width="50">  A little more about me...
+### A little more about me... <img src="https://media.giphy.com/media/dwGHpzsExl6SDfd5sG/giphy.gif" width="50">  
 
 <img align="right" src="https://media.giphy.com/media/db3tM8XX74ouqsp8mE/giphy.gif">
  
@@ -30,11 +30,11 @@ const adela = {
             SQL: ["mySQL", "azure", "sql server"],
             noSQL: ["firebase"]
         },
-        ide: ["vs code", "visual studio"],
+        IDE: ["vs code", "visual studio"],
         projectManagement: ["trello"]
     },
     goal: "Level up my skills one commit at a time!"
 }
 `````
 
-_Check out my pinned repos below and thanks for visiting!_ <img src="https://media.giphy.com/media/lOfzwCwpbEBOu5e1ob/giphy.gif" width="75">
+_Check out my pinned repos below and thanks for visiting!_ <img src="https://media.giphy.com/media/lOfzwCwpbEBOu5e1ob/giphy.gif" width="50">
