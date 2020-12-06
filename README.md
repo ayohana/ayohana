@@ -14,7 +14,7 @@ _Coding Bootcamp Graduate from [Epicodus](https://www.epicodus.com/)_
  `````javascript
 const adela = {
     pronouns: "she" || "her",
-    loves: ["kind people", "bubble tea", "korean dramas", "my dog"],
+    loves: ["kind people", "cooking", "bubble tea", "korean dramas", "my dog"],
     technologies: {
         frontEnd: {
             js: ["jQuery", "react", "redux"],
@@ -31,7 +31,7 @@ const adela = {
             noSQL: ["firebase"]
         },
         IDE: ["vs code", "visual studio"],
-        projectManagement: ["trello"]
+        projectManagement: ["trello", "jira"]
     },
     goal: "Level up my skills one commit at a time!"
 }
