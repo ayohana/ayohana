@@ -4,8 +4,8 @@ _A Nurse Turned Developer_
 <br>
 _Coding Bootcamp Graduate from [Epicodus](https://www.epicodus.com/)_
 
-![GitHub Followers Badge](https://img.shields.io/github/followers/ayohana?color=pink&logo=github&style=flat-square)
-![LinkedIn Badge: ayohana](https://img.shields.io/badge/-ayohana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayohana/)
+[![GitHub Followers Badge](https://img.shields.io/github/followers/ayohana?color=pink&logo=github&style=flat-square)](https://github.com/ayohana)
+[![LinkedIn Badge: ayohana](https://img.shields.io/badge/-ayohana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayohana/)](https://www.linkedin.com/in/ayohana/)
 
 ### A little more about me... <img src="https://media.giphy.com/media/dwGHpzsExl6SDfd5sG/giphy.gif" width="50">  
 
