@@ -1,6 +1,6 @@
 # Hi, I'm Adela! <img src="https://media.giphy.com/media/dB0lH3k3AE96259Exh/giphy.gif" width="75">
 
-_A Nurse Turned Developer_
+_Nurse Turned Developer_
 <br>
 _Coding Bootcamp Graduate from [Epicodus](https://www.epicodus.com/)_
 
@@ -14,11 +14,11 @@ _Coding Bootcamp Graduate from [Epicodus](https://www.epicodus.com/)_
  `````javascript
 const adela = {
     pronouns: "she" || "her",
-    loves: ["kind people", "cooking", "bubble tea", "korean dramas", "my dog"],
+    loves: ["my dog", "cooking", "bubble tea", "korean dramas", "kind people"],
     technologies: {
         frontEnd: {
             js: ["jQuery", "react", "redux"],
-            css: ["bootstrap", "semanticUI"],
+            css: ["bootstrap", "semanticUI", "less"],
             misc: ["figma", "draw.io", "netlify"]
         },
         backEnd: {
@@ -28,7 +28,8 @@ const adela = {
         },
         databases: {
             SQL: ["mySQL", "azure", "sql server"],
-            noSQL: ["firebase"]
+            noSQL: ["firebase"],
+            misc: ["ssms"]
         },
         IDE: ["vs code", "visual studio"],
         projectManagement: ["trello", "jira"]
