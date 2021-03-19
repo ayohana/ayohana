@@ -32,7 +32,7 @@ const adela = {
             misc: ["ssms"]
         },
         IDE: ["vs code", "visual studio"],
-        projectManagement: ["trello", "jira"]
+        projectManagement: ["trello", "jira", "ado"]
     },
     goal: "Level up my skills one commit at a time!"
 }
