@@ -1,8 +1,10 @@
 # Hi, I'm Adela! <img src="https://media.giphy.com/media/dB0lH3k3AE96259Exh/giphy.gif" width="75">
 
-_Nurse Turned Developer_
+_Nurse turned Developer_
 <br>
-_Coding Bootcamp Graduate from [Epicodus](https://www.epicodus.com/)_
+_[Epicodus](https://www.epicodus.com/) Coding Bootcamp Graduate_
+<br>
+_[Microsoft Leap](https://www.linkedin.com/company/microsoftleap/mycompany/) Apprentice Cohort 25_
 
 [![GitHub Followers Badge](https://img.shields.io/github/followers/ayohana?color=pink&logo=github&style=flat-square)](https://github.com/ayohana)
 [![LinkedIn Badge: ayohana](https://img.shields.io/badge/-ayohana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayohana/)](https://www.linkedin.com/in/ayohana/)
@@ -17,8 +19,9 @@ const adela = {
     loves: ["my dog", "cooking", "bubble tea", "korean dramas", "kind people"],
     technologies: {
         frontEnd: {
-            js: ["jQuery", "react", "redux"],
-            css: ["bootstrap", "semanticUI", "less"],
+            js: ["typescript", "react", "redux", "resub", "jQuery"],
+            css: ["fluentUI", "semanticUI", "bootstrap", "less"],
+            tests: ["jest", "react testing library"],
             misc: ["figma", "draw.io", "netlify"]
         },
         backEnd: {
@@ -31,7 +34,7 @@ const adela = {
             noSQL: ["firebase"],
             misc: ["ssms"]
         },
-        IDE: ["vs code", "visual studio"],
+        IDE: ["visual studio", "vs code"],
         projectManagement: ["trello", "jira", "ado"]
     },
     goal: "Level up my skills one commit at a time!"
